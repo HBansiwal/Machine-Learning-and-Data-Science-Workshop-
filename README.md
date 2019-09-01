@@ -13,3 +13,5 @@ https://docs.google.com/presentation/d/1DNlojnmftzqUUfWHhfI_Zy1y7yFzzoii0Qhcvj0B
 https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
 7. Intro with Matplotlib 
 https://classroom.google.com/u/0/c/NDA3MTU2MzA5NDla/p/NDA3MzA1NjIxNjha/details
+8. fifa_in_depth_analysis tutorial
+https://www.kaggle.com/nitindatta/fifa-in-depth-analysis-with-linear-regression
