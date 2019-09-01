@@ -15,3 +15,5 @@ https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlR
 https://classroom.google.com/u/0/c/NDA3MTU2MzA5NDla/p/NDA3MzA1NjIxNjha/details
 8. fifa_in_depth_analysis tutorial
 https://www.kaggle.com/nitindatta/fifa-in-depth-analysis-with-linear-regression
+9. fifa_analysis
+https://www.kaggle.com/datauma/fifa-2019-analysis
