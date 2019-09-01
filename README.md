@@ -11,3 +11,5 @@ https://drive.google.com/file/d/1_1dX4Yk63OwDtKjgu7QBKSQhW-OpqiO6/view?usp=shari
 https://docs.google.com/presentation/d/1DNlojnmftzqUUfWHhfI_Zy1y7yFzzoii0Qhcvj0Bxj4/edit?usp=sharing
 6. Andrew Ng complete Course on Machine Learning
 https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+7. Intro with Matplotlib 
+https://classroom.google.com/u/0/c/NDA3MTU2MzA5NDla/p/NDA3MzA1NjIxNjha/details
