@@ -17,3 +17,5 @@ https://classroom.google.com/u/0/c/NDA3MTU2MzA5NDla/p/NDA3MzA1NjIxNjha/details
 https://www.kaggle.com/nitindatta/fifa-in-depth-analysis-with-linear-regression
 9. fifa_analysis
 https://www.kaggle.com/datauma/fifa-2019-analysis
+10. Machine learning by Andrew Ng
+https://lnkd.in/fUXDtXm
