@@ -19,3 +19,5 @@ https://www.kaggle.com/nitindatta/fifa-in-depth-analysis-with-linear-regression
 https://www.kaggle.com/datauma/fifa-2019-analysis
 10. Machine learning by Andrew Ng
 https://lnkd.in/fUXDtXm
+11. pandas tutorial
+https://chrisalbon.com/python/data_wrangling/pandas_dataframe_importing_csv/
