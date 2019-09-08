@@ -21,3 +21,5 @@ https://www.kaggle.com/datauma/fifa-2019-analysis
 https://lnkd.in/fUXDtXm
 11. pandas tutorial
 https://chrisalbon.com/python/data_wrangling/pandas_dataframe_importing_csv/
+12. linear Regression Tutorial
+https://www.kaggle.com/andyxie/beginner-scikit-learn-linear-regression-tutorial
