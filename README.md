@@ -23,3 +23,5 @@ https://lnkd.in/fUXDtXm
 https://chrisalbon.com/python/data_wrangling/pandas_dataframe_importing_csv/
 12. linear Regression Tutorial
 https://www.kaggle.com/andyxie/beginner-scikit-learn-linear-regression-tutorial
+13. PPT link data_science
+https://docs.google.com/presentation/d/1NvO7Ni77RuZoFAkbxhjNu4yWBAEt-pF6NESQ1brIvTg/edit?usp=sharing
