@@ -25,3 +25,7 @@ https://chrisalbon.com/python/data_wrangling/pandas_dataframe_importing_csv/
 https://www.kaggle.com/andyxie/beginner-scikit-learn-linear-regression-tutorial
 13. PPT link data_science
 https://docs.google.com/presentation/d/1NvO7Ni77RuZoFAkbxhjNu4yWBAEt-pF6NESQ1brIvTg/edit?usp=sharing
+14. tutorial working with Tableau(Data_Science)
+https://www.tableau.com/learn/training
+(need to make id, then follow the tutorial)
+https://www.tableau.com/learn/trainingc
