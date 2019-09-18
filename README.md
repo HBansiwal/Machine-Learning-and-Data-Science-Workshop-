@@ -1,4 +1,4 @@
-# Machine-Learning-Workshop
+# Machine-Learning-AND-Data-science-Workshop
 1. python installation guide
  https://drive.google.com/file/d/1MRkVJDIjfYqov5vhWKV81SMmDhSu33sH/view?usp=sharing
 2. Machine Learning and Deep learning intro
