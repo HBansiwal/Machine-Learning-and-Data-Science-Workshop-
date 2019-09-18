@@ -29,3 +29,5 @@ https://docs.google.com/presentation/d/1NvO7Ni77RuZoFAkbxhjNu4yWBAEt-pF6NESQ1brI
 https://www.tableau.com/learn/training
 (need to make id, then follow the tutorial)
 https://www.tableau.com/learn/trainingc
+15. methode to import csv file in google colab
+https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92
